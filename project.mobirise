@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zaitsev",
-    "currentPage": "zaitsev.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 38,
+    "uniqCompNum": 41,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icon-1.png",
@@ -61,7 +61,7 @@
     "sitemapSwitcher": "on"
   },
   "pages": {
-    "zaitsev.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Зайцев Сергей",
