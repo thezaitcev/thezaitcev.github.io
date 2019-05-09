@@ -583,32 +583,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Введите заголовок здесь",
-                "active": true
-              },
-              {
-                "tags": "Анимированный",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/29hw.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/29hw-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
-                "active": false
-              },
-              {
-                "tags": "Анимированный",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/decorshop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/decorshop-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Введите заголовок здесь",
                 "active": false
               },
               {
@@ -636,6 +610,19 @@
                 "customStyle1": "display-7",
                 "caption": "Введите заголовок здесь",
                 "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/29hw.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29hw-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Введите заголовок здесь",
+                "active": true
               },
               {
                 "tags": "Потрясающие",
