@@ -755,6 +755,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "houdini,  unreal engine (VIDEO)",
+                "active": false
+              },
+              {
+                "tags": "animations",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise202026-108582020-2-5-10-9-59.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/cjE4KqTq0eo",
+                "image": "@PROJECT_PATH@/assets/images/mbr.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "houdini,  unreal engine (VIDEO)",
                 "active": true
               }
             ]
