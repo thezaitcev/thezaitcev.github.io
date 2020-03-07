@@ -685,6 +685,9 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-rOnY6jlg7k .mbr-gallery-item > div > span {
+  text-align: left;
+}
 .cid-r8vST10oQn .navbar {
   padding: .5rem 0;
   background: #232323;

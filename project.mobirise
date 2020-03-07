@@ -138,6 +138,9 @@
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "left"
             }
           },
           "_name": "gallery3",
@@ -719,7 +722,7 @@
                 "active": false
               },
               {
-                "tags": "archvis, real time",
+                "tags": "archvis, real time, animations",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020026-2219382020-0-0-22-21-37.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=zy0XQ3weqTo",
@@ -732,7 +735,7 @@
                 "active": false
               },
               {
-                "tags": "archvis, real time",
+                "tags": "archvis, real time, animations",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020027-932362020-0-1-10-42-6.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/3al7D8jboYA",
@@ -745,7 +748,7 @@
                 "active": false
               },
               {
-                "tags": "archvis, real time",
+                "tags": "archvis, real time, animations",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020027-932362020-0-1-10-41-31.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/lHZuXSJH7_U",
@@ -755,7 +758,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "houdini,  unreal engine (VIDEO)",
-                "active": false
+                "active": true
               },
               {
                 "tags": "animations",
@@ -768,7 +771,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3ds Max, Corona Renderer (VIDEO)",
-                "active": true
+                "active": false
               }
             ]
           }
