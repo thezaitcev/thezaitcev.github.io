@@ -180,13 +180,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/cedar2-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cedar2-1-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cedar2-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cedar2-2-800x400.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3ds max, corona",
-                "active": false
+                "active": true
               },
               {
                 "tags": "archvis",
@@ -433,7 +433,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3ds max, corona",
-                "active": true
+                "active": false
               },
               {
                 "tags": "archvis",
