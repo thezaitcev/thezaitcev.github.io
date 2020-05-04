@@ -167,13 +167,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/kids-ploshadka.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kids-ploshadka-800x1143.jpg",
+                "image": "@PROJECT_PATH@/assets/images/testforestpack.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/testforestpack-800x889.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "3ds max, corona",
-                "active": false
+                "caption": "houdini, 3ds max, forest pack, corona",
+                "active": true
               },
               {
                 "tags": "archvis",
@@ -186,7 +186,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3ds max, corona",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "archvis",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/kids-ploshadka.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kids-ploshadka-800x1143.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, corona",
+                "active": false
               },
               {
                 "tags": "archvis",
