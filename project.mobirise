@@ -173,7 +173,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "houdini, 3ds max, forest pack, corona",
-                "active": true
+                "active": false
               },
               {
                 "tags": "archvis",
@@ -317,6 +317,19 @@
                 "customStyle1": "display-7",
                 "caption": "3ds max, corona",
                 "active": false
+              },
+              {
+                "tags": "archvis",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dvor.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dvor-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, corona",
+                "active": true
               },
               {
                 "tags": "archvis",
@@ -875,6 +888,110 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3ds Max, Corona Renderer (VIDEO)",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/exchangechair-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/exchangechair-2-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/vintatable.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vintatable-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/waynesideboard-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/waynesideboard-1-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/walnutlounge-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/walnutlounge-1-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/sandstonetable.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sandstonetable-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/alpiles.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/alpiles-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/manaosward.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/manaosward-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
+                "active": false
+              },
+              {
+                "tags": "3d models",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bicycledecor.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bicycledecor-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "3ds max, substance painter, corona",
                 "active": false
               }
             ]
